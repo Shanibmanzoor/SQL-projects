@@ -1,2 +1,2 @@
-# Power-bi-projects
-This is a Power Bi end to end Projects
+# SQL-projects
+This is a SQLend to end Projects
