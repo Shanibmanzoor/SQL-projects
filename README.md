@@ -1,2 +1,2 @@
 # SQL-projects
-This is a SQLend to end Projects
+This is a SQL end to end Projects
